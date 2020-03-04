@@ -1,0 +1,10 @@
+https://kavita-ganesan.com/tfidftransformer-tfidfvectorizer-usage-differences/#.Xluiy0NS9dt
+https://courses.cs.washington.edu/courses/cse373/17au/project3/project3-3.html
+http://aakashjapi.com/fuckin-search-engines-how-do-they-work/
+https://ankitrathore11.wordpress.com/search-engine/#content
+https://www.bogotobogo.com/Algorithms/tf_idf_term_frequency_inverse_document_frequency_NLP_Natural_Language_Processing.php
+https://www.bogotobogo.com/python/NLTK/tf_idf_with_scikit-learn_NLTK.php
+https://medium.com/@deangelaneves/how-to-build-a-search-engine-from-scratch-in-python-part-1-96eb240f9ecb
+https://anvil.works/blog/how-to-build-a-search-engine
+https://towardsdatascience.com/stemming-lemmatization-what-ba782b7c0bd8
+https://www.datacamp.com/community/tutorials/stemming-lemmatization-python
